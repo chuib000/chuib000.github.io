@@ -14,6 +14,6 @@ var likes = [
 ]
 function newLike() {
 var randomNumber = Math.floor(Math.random() * (likes.length));
-}
 document.getElementById('like').innerHTML = likes[randomNumber];
+}
 
