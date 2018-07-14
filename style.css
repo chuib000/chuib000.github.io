@@ -14,10 +14,6 @@ h2 {
 }
 
 .buttons {
-  padding: 20px;
-  margin: 10px 5px;
-  border: 5px;
-  border-color: white;
   display: grid;
   grid-template-columns: 1fr 1fr;
   height: 400px;
@@ -25,11 +21,19 @@ h2 {
 }
 
 #like {
+  padding: 50px;
+  margin: 20px 10px;
+  border: 10px;
+  border-color: white;
   background-color: green;
   color: white;
 }
 
 #dislike {
+  padding: 50px;
+  margin: 20px 1px;
+  border: 10px;
+  border-color: white;
   background-color: red;
   color: white;
 }
