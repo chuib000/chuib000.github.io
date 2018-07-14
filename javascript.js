@@ -10,7 +10,12 @@ var likes = [
   'crimps',
   'technical climbs',
   'slab climbs',
-  'hiking'
+  'hiking',
+  'predicate logic',
+  'petting dogs',
+  'smelling candles',
+  'chocolate-dipped strawberries',
+  'pineapple upside down cake',
 ]
 
 function newLike() {
@@ -25,7 +30,9 @@ var dislikes = [
   'Nazis',
   'National Socialism',
   'waking up early',
-  'trouble kids'
+  'trouble kids',
+  'sunburns',
+  'having debt'
 ]
 
 function newDislike() {
