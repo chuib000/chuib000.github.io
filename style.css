@@ -34,7 +34,6 @@ h2 {
 }
 
 #like {
-  width: 300px;
   border: 10px;
   border-color: white;
   background-color: green;
@@ -42,7 +41,6 @@ h2 {
 }
 
 #dislike {
-  width: 300px;
   border: 10px;
   border-color: white;
   background-color: red;
