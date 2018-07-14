@@ -35,7 +35,7 @@ h2 {
   background-color: green;
   color: white;
   margin: auto;
-  padding: 175px 100px;
+  padding: 100px 50px;
 }
 
 #dislike {
@@ -46,5 +46,5 @@ h2 {
   background-color: red;
   color: white;
   margin: auto;
-  padding: 175px 100px;
+  padding: 100px 50px;
 }
