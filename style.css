@@ -19,7 +19,7 @@ h2 {
   grid-template-columns: 1fr 1fr;
   height: 400px;
   width: 1000px;
-  justify-content: center;
+  justify: center;
   align-items: center;
 }
 
