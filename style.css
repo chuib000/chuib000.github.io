@@ -4,10 +4,13 @@ h1 {
   text-align: center;
   background-color: black;
   color: white;
+  font-size: 72px;
 }
 h2 {
   font-family: 'Muli', sans-serif;
   font-weight: 400;
+  font-size: 48px;
+  position: inline-block;
 }
 
 like {
@@ -23,4 +26,3 @@ dislike {
   margin: 10px 5px;
   background-color: red;
 }
-
