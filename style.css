@@ -30,7 +30,6 @@ h2 {
 }
 
 #like {
-  height: 300px;
   width: 400px;
   border: 10px;
   border-color: white;
@@ -39,7 +38,6 @@ h2 {
 }
 
 #dislike {
-  height: 300px;
   width: 400px;
   border: 10px;
   border-color: white;
