@@ -52,7 +52,7 @@ button {
   border-color: white;
   background-color: red;
   color: white;
-  grid-area: 2 / 1 / 3 / 2;
+  grid-area: 1 / 2 / 2 / 3;
 }
 
 .LikeDisplay {
