@@ -28,23 +28,19 @@ h2 {
 }
 
 #like {
-  height: 400px;
-  width: 400px;
   border: 10px;
   border-color: white;
   background-color: green;
   color: white;
-  margin: auto;
+  margin: 20px;
   padding: 100px 50px;
 }
 
 #dislike {
-  height: 400px;
-  width: 400px;
   border: 10px;
   border-color: white;
   background-color: red;
   color: white;
-  margin: auto;
+  margin: 20px;
   padding: 100px 50px;
 }
