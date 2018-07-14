@@ -40,7 +40,7 @@ button {
   border-color: white;
   background-color: green;
   color: white;
-  grid-area: 1 / 1 / 2 / 2 2;
+  grid-area: 1 / 1 / 2 / 2;
 }
 
 #dislike {
