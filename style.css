@@ -9,15 +9,11 @@ h1 {
 }
 h2 {
   font-family: 'Muli', sans-serif;
-  font-weight: 400;
-  font-size: 48px;
-  position: inline-block;
+  font-weight: 400px;
   text-align: center;
-  min-height: 50px;
-  padding: 20px 15px;
 }
 
-h2 like {
+like {
   padding: 20px;
   margin: 10px 5px;
   border: 5px;
@@ -26,7 +22,7 @@ h2 like {
   color: white;
 }
 
-h2 dislike {
+dislike {
   padding: 20px;
   margin: 10px 5px;
   background-color: red;
