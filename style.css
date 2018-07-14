@@ -18,6 +18,8 @@ h2 {
   margin: 10px 5px;
   border: 5px;
   border-color: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
 #like {
