@@ -2,7 +2,6 @@ var likes = [
   'chocolate',
   'ice cream',
   'snickers',
-  'Sean Lai',
   'climbing',
   'pineapple gummy bears',
   'orange juice',
