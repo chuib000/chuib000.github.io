@@ -13,7 +13,7 @@ h2 {
   text-align: center;
 }
 
-like {
+#like {
   padding: 20px;
   margin: 10px 5px;
   border: 5px;
@@ -22,7 +22,7 @@ like {
   color: white;
 }
 
-dislike {
+#dislike {
   padding: 20px;
   margin: 10px 5px;
   background-color: red;
