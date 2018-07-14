@@ -5,6 +5,7 @@ h1 {
   background-color: black;
   color: white;
   font-size: 72px;
+  min-height: 100px;
 }
 h2 {
   font-family: 'Muli', sans-serif;
@@ -12,6 +13,7 @@ h2 {
   font-size: 48px;
   position: inline-block;
   text-align: center;
+  min-height: 50px;
 }
 
 h2 like {
