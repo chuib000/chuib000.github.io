@@ -1,5 +1,6 @@
 body {
   background-image: url(http://www.bateriascartoon.com.br/wp-content/uploads/2017/09/1.jpg);
+  background-color: beige;
 }
 
 * {
@@ -36,9 +37,9 @@ button {
   margin: 5px;
   padding: 50px;
   min-width: 225px;
-  border: 10px;
-  border-color: white;
-  background-color: green;
+  border: 5px;
+  border-color: black;
+  background-color: grey;
   color: white;
   grid-area: 1 / 1 / 2 / 2;
 }
@@ -48,9 +49,9 @@ button {
   margin: 5px;
   padding: 50px;
   min-width: 250px;
-  border: 10px;
-  border-color: white;
-  background-color: red;
+  border: 5px;
+  border-color: black;
+  background-color: grey;
   color: white;
   grid-area: 1 / 2 / 2 / 3;
 }
