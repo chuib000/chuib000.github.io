@@ -15,7 +15,7 @@ var likes = [
 
 function newLike() {
 var randomNumber = Math.floor(Math.random() * (likes.length));
-document.getElementById('DislikeDisplay').innerHTML = likes[randomNumber];
+document.getElementByClass('DislikeDisplay').innerHTML = likes[randomNumber];
 }
 
 var dislikes = [
@@ -30,6 +30,6 @@ var dislikes = [
 
 function newDislike() {
 var randomNumber = Math.floor(Math.random() *(dislikes.length));
-document.getElementById('DislikeDisplay').innerHTML = dislikes[randomNumber];
+document.getElementByClass('DislikeDisplay').innerHTML = dislikes[randomNumber];
 
 }
