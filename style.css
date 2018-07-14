@@ -34,7 +34,7 @@ h2 {
 }
 
 #like {
-  min-width: 200px;
+  min-width: 225px;
   border: 10px;
   border-color: white;
   background-color: green;
@@ -42,7 +42,7 @@ h2 {
 }
 
 #dislike {
-  min-width: 200px;
+  min-width: 250px;
   border: 10px;
   border-color: white;
   background-color: red;
