@@ -28,7 +28,8 @@ button {
 
 .buttons {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 2(1fr);
+  grid-template-rows: 2(1fr)
   justify-items: center;
   align-items: center;
 }
@@ -39,6 +40,7 @@ button {
   border-color: white;
   background-color: green;
   color: white;
+  grid-area: 1 / 1 / 2 / 2 2;
 }
 
 #dislike {
@@ -47,5 +49,23 @@ button {
   border-color: white;
   background-color: red;
   color: white;
+  grid-area: 2 / 1 / 3 / 2;
+}
 
+.LikeDisplay {
+  min-width: 225px;
+  border: 10px;
+  border-color: white;
+  background-color: green;
+  color: white;
+  grid-area: 2 / 1 / 3 / 2;
+}
+
+.DislikeDisplay {
+  min-width: 250px;
+  border: 10px;
+  border-color: white;
+  background-color: red;
+  color: white;
+  grid-area: 2 / 2 / 3 / 3;
 }
