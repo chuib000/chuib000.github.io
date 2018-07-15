@@ -31,7 +31,6 @@ button {
   box-sizing: border-box;
   font-size: 40px;
   margin: 10px 5px 0px 10px;
-  padding: 50px;
   min-width: 225px;
   background-color: silver;
   color: seashell;
@@ -49,7 +48,6 @@ button {
   box-sizing: border-box;
   font-size: 40px;
   margin: 10px 10px 0px 5px;
-  padding: 50px;
   min-width: 300px;
   background-color: silver;
   color: seashell;
@@ -68,7 +66,6 @@ button {
   font-family: 'Muli', sans-serif;
   font-size: 20px;
   margin: 0px 5px 10px 10px;
-  padding: 50px;
   border: 10px solid silver;
   min-width: 225px;
   background-color: silver;
@@ -81,7 +78,6 @@ button {
   font-family: 'Muli', sans-serif;
   font-size: 20px;
   margin: 0px 10px 10px 5px;
-  padding: 50px;
   border: 10px solid silver;
   min-width: 300px;
   background-color: silver;
