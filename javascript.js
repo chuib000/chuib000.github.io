@@ -18,6 +18,24 @@ var likes = [
 ]
 
 function newLike() {
+var likes = [
+    'chocolate',
+    'ice cream',
+    'snickers',
+    'climbing',
+    'pineapple gummy bears',
+    'orange juice',
+    'mimosas',
+    'crimps',
+    'technical climbs',
+    'slab climbs',
+    'hiking',
+    'predicate logic',
+    'petting dogs',
+    'smelling candles',
+    'chocolate-dipped strawberries',
+    'pineapple upside down cake',
+  ]
 var randomNumber = Math.floor(Math.random()*(likes.length));
 document.getElementByClassName('LikeDisplay').innerHTML = likes[randomNumber];
 }
