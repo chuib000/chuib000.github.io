@@ -13,11 +13,11 @@ body {
 
 h1 {
   font-family: 'Muli', sans-serif;
-  font-weight: large;
+  font-weight: 700;
   text-align: center;
   background-color: darkcyan;
   color: seashell;
-  font-size: 72px;
+  font-size: large;
   margin: 50px;
 }
 
