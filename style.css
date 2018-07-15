@@ -44,7 +44,7 @@ button {
 }
 
 #like:hover {
-  color: black;
+  color: seashell;
   background-color: lightgray;
   border: 10px solid silver;
 }
