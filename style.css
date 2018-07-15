@@ -17,7 +17,7 @@ h1 {
   text-align: center;
   background-color: darkcyan;
   color: seashell;
-  font-size: large;
+  font-size: 72px;
   margin: 50px;
 }
 
@@ -37,7 +37,8 @@ button {
 }
 
 #like {
-  font-size: medium;
+  font-size: 40px;
+  width: 50%;
   margin: 10px 5px 0px 10px;
   background-color: darkgray;
   border: 10px solid lightgray;
@@ -54,7 +55,8 @@ button {
 }
 
 #dislike {
-  font-size: medium;
+  font-size: 40px;
+  width: 50%;
   margin: 10px 10px 0px 5px;
   background-color: darkgray;
   border: 10px solid lightgray;
@@ -73,9 +75,10 @@ button {
 #LikeDisplay {
   font-family: 'Muli', sans-serif;
   min-height: 65px;
+  width: 50%;
   align-content: start;
   justify-content: center;
-  font-size: small;
+  font-size: 20px;
   padding: 10px;
   margin: 0px 10px 10px 10px;
   border: 10px solid lightseagreen;
@@ -87,13 +90,13 @@ button {
 #DislikeDisplay {
   align-content: start;
   min-height: 65px;
+  width: 50%;
   justify-content: center;
   font-family: 'Muli', sans-serif;
-  font-size: small;
+  font-size: 20px;
   padding: 10px;
   margin: 0px 0px 0px 10px;
   border: 10px solid lightseagreen;
-  max-width: 500px;
   background-color: lightseagreen;
   color: seashell;
   grid-area: 2 / 2 / 3 / 3;
