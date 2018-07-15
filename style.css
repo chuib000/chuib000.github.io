@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: lightseagreen;
 }
@@ -62,25 +66,25 @@ button {
 }
 
 #LikeDisplay {
-  box-sizing: border-box;
   font-family: 'Muli', sans-serif;
   font-size: 20px;
+  padding: 10px;
   margin: 0px 5px 10px 10px;
-  border: 10px solid silver;
+  border: 10px solid lightseagreen;
   min-width: 225px;
-  background-color: silver;
+  background-color: lightseagreen;
   color: seashell;
   grid-area: 2 / 1 / 3 / 2;
 }
 
 #DislikeDisplay {
-  box-sizing: border-box;
   font-family: 'Muli', sans-serif;
   font-size: 20px;
+  padding: 10px;
   margin: 0px 10px 10px 5px;
-  border: 10px solid silver;
+  border: 10px solid lightseagreen;
   min-width: 300px;
-  background-color: silver;
+  background-color: lightseagreen;
   color: seashell;
   grid-area: 2 / 2 / 3 / 3;
 }
