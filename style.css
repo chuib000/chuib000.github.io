@@ -68,7 +68,6 @@ button {
 #LikeDisplay {
   font-family: 'Muli', sans-serif;
   font-size: 20px;
-  text-align: center;
   padding: 10px;
   margin: 0px 5px 10px 10px;
   border: 10px solid lightseagreen;
@@ -82,7 +81,6 @@ button {
 #DislikeDisplay {
   font-family: 'Muli', sans-serif;
   font-size: 20px;
-  text-align: center;
   padding: 10px;
   margin: 0px 10px 10px 5px;
   border: 10px solid lightseagreen;
