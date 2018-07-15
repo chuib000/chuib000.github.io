@@ -1,22 +1,3 @@
-var likes = [
-  'chocolate',
-  'ice cream',
-  'snickers',
-  'climbing',
-  'pineapple gummy bears',
-  'orange juice',
-  'mimosas',
-  'crimps',
-  'technical climbs',
-  'slab climbs',
-  'hiking',
-  'predicate logic',
-  'petting dogs',
-  'smelling candles',
-  'chocolate-dipped strawberries',
-  'pineapple upside down cake',
-]
-
 function newLike() {
 var likes = [
     'chocolate',
