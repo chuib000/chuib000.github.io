@@ -2,10 +2,6 @@ body {
   background-color: lightseagreen;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 h1 {
   font-family: 'Muli', sans-serif;
   font-weight: 600;
@@ -32,6 +28,7 @@ button {
 }
 
 #like {
+  box-sizing: border-box;
   font-size: 40px;
   margin: 10px 5px 0px 10px;
   padding: 50px;
@@ -49,6 +46,7 @@ button {
 }
 
 #dislike {
+  box-sizing: border-box;
   font-size: 40px;
   margin: 10px 10px 0px 5px;
   padding: 50px;
@@ -66,6 +64,7 @@ button {
 }
 
 #LikeDisplay {
+  box-sizing: border-box;
   font-family: 'Muli', sans-serif;
   font-size: 20px;
   margin: 0px 5px 10px 10px;
@@ -78,6 +77,7 @@ button {
 }
 
 #DislikeDisplay {
+  box-sizing: border-box;
   font-family: 'Muli', sans-serif;
   font-size: 20px;
   margin: 0px 10px 10px 5px;
