@@ -1,4 +1,3 @@
-function newLike() {
 var likes = [
     'chocolate',
     'ice cream',
@@ -17,7 +16,9 @@ var likes = [
     'chocolate-dipped strawberries',
     'pineapple upside down cake',
   ]
-var randomNumber = Math.floor(Math.random()*(likes.length));
+
+function newLike() {
+var randomNumber = likes(Math.floor(Math.random()*(likes.length)));
 document.getElementByClassName('LikeDisplay').innerHTML = likes[randomNumber];
 }
 
