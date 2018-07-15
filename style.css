@@ -36,7 +36,7 @@ button {
   font-size: 40px;
   margin: 10px 5px 0px 10px;
   min-width: 225px;
-  background-color: silver;
+  background-color: darkgray;
   color: seashell;
   grid-area: 1 / 1 / 2 / 2;
   transition-duration: 0.4s;
@@ -45,7 +45,7 @@ button {
 #like:hover {
   color: seashell;
   background-color: lightgray;
-  border: 10px solid silver;
+  border: 10px solid darkgray;
 }
 
 #dislike {
@@ -53,7 +53,7 @@ button {
   font-size: 40px;
   margin: 10px 10px 0px 5px;
   min-width: 300px;
-  background-color: silver;
+  background-color: darkgray;
   color: seashell;
   grid-area: 1 / 2 / 2 / 3;
   transition-duration: 0.4s;
@@ -62,7 +62,7 @@ button {
 #dislike:hover {
   background-color: lightgray;
   color: seashell;
-  border: 10px solid silver;
+  border: 10px solid darkgray;
 }
 
 #LikeDisplay {
