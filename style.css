@@ -39,7 +39,6 @@ button {
 #like {
   font-size: 40px;
   margin: 10px 5px 0px 10px;
-  min-width: 225px;
   background-color: darkgray;
   border: 10px solid lightgray;
   border-radius: 7px;
@@ -57,7 +56,6 @@ button {
 #dislike {
   font-size: 40px;
   margin: 10px 10px 0px 5px;
-  min-width: 300px;
   background-color: darkgray;
   border: 10px solid lightgray;
   border-radius: 7px;
