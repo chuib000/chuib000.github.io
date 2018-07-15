@@ -101,6 +101,7 @@ var likes = [
     'manchego',
     'pasta aglio e olio',
     'getting paid',
+    'chocolate oranges',
     
   ]
 
@@ -133,4 +134,20 @@ var dislikes = [
     'red meat and poultry',
     'loud neighbors',
     'wasting food',
+    'cats who do not let me pet them',
+    'finding a spider hanging from the ceiling right before I go to sleep',
+    'injuries',
+    'her poor time management skils',
+    'getting hungry in the middle of the night',
+    'when she uses dish soap instead of dishwasher detergent in the dishwasher and everything in the world gets sudsy',
+    'rotten foods',
+    'mold',
+    'parasites',
+    'ignorance',
+    'The Wheels on the Bus song',
+    'heights',
+  'humidity',
+    'expensive rent',
+    'being inaccurately judged off of an unrepresentative sample of actions',
+    'pulling an all-nighter to write a paper for school'
 ]
