@@ -84,7 +84,7 @@ button {
   margin: 0px 0px 0px 5px;
   border: 10px solid lightseagreen;
   min-width: 300px;
-  max-width: 500px;
+  max-width: 600px;
   background-color: lightseagreen;
   color: seashell;
   grid-area: 2 / 2 / 3 / 3;
