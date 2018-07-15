@@ -149,5 +149,8 @@ var dislikes = [
   'humidity',
     'expensive rent',
     'being inaccurately judged off of an unrepresentative sample of actions',
-    'pulling an all-nighter to write a paper for school'
+    'pulling an all-nighter to write a paper for school',
+    'getting stuck in small spaces',
+    'brussel sprouts',
+    'peas',
 ]
