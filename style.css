@@ -41,6 +41,7 @@ button {
   border-radius: 5px;
   color: seashell;
   grid-area: 1 / 1 / 2 / 2;
+  transition-duration: 0.4s;
 }
 
 #like:hover {
@@ -53,7 +54,7 @@ button {
   font-size: 50px;
   margin: 10px 10px 0px 5px;
   padding: 50px;
-  min-width: 250px;
+  min-width: 275px;
   border: 10px solid lightgray;
   border-radius: 5px;
   background-color: silver;
