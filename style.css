@@ -32,7 +32,6 @@ button {
 }
 
 #like {
-  box-sizing: border-box;
   font-size: 40px;
   margin: 10px 5px 0px 10px;
   min-width: 225px;
@@ -49,7 +48,6 @@ button {
 }
 
 #dislike {
-  box-sizing: border-box;
   font-size: 40px;
   margin: 10px 10px 0px 5px;
   min-width: 300px;
@@ -68,8 +66,6 @@ button {
 #LikeDisplay {
   font-family: 'Muli', sans-serif;
   font-size: 20px;
-  padding: 10px;
-  margin: 0px 5px 10px 10px;
   border: 10px solid lightseagreen;
   min-width: 225px;
   background-color: lightseagreen;
@@ -80,8 +76,6 @@ button {
 #DislikeDisplay {
   font-family: 'Muli', sans-serif;
   font-size: 20px;
-  padding: 10px;
-  margin: 0px 0px 0px 5px;
   border: 10px solid lightseagreen;
   min-width: 300px;
   background-color: lightseagreen;
