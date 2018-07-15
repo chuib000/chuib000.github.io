@@ -1,9 +1,34 @@
+function newLike() {
+var randomNumber = (Math.floor(Math.random()*(likes.length)));
+document.getElementById('LikeDisplay').innerHTML = likes[randomNumber];
+}
+
+function newDislike() {
+var randomNumber = Math.floor(Math.random()*(dislikes.length));
+document.getElementById('DislikeDisplay').innerHTML = dislikes[randomNumber];
+}
+
 var likes = [
-    'chocolate',
+    'dark chocolate',
+    'milk chocolate',
+    'Rolos',
+    'Twix',
+    'pink Starbursts',
     'ice cream',
-    'snickers',
-    'climbing',
+    'Snickers',
+    'rock climbing',
     'pineapple gummy bears',
+    'Gushers',
+    'Reeses peanut butter cups',
+    'smores',
+    'strawberries',
+    'blueberries',
+    'watermelon',
+    'canteloupe',
+    'tangerines',
+    'clementines',
+    'mandarin oranges',
+    'sushi',
     'orange juice',
     'mimosas',
     'crimps',
@@ -15,12 +40,70 @@ var likes = [
     'smelling candles',
     'chocolate-dipped strawberries',
     'pineapple upside down cake',
+    'smelling spices',
+    'baking',
+    'being productive',
+    'napping',
+    'folding laundry',
+    'hiking',
+    'karaoke',
+    'paintball',
+    'Tommy Caldwell',
+    'Alex Honnold',
+    'The Circuit Bouldering Gym',
+    'sleeping in',
+    'butter',
+    'the fragrance of freshly baked goods',
+    'having a project',
+    'the smell of rain in Portland',
+    'drinking coffee out of leisure rather than perceived necessity',
+    'happy people',
+    'eating cheese',
+    'ironing clothes',
+    'long drives in nice weather',
+    'shooting',
+    'playing board games',
+    'dressing up',
+    'the smell of fresh linens',
+    'NW sunsets in the summer',
+    'when trees transition from green to yellow, orange, and red',
+    'camping',
+    'being healthy',
+    'kind people',
+    'witty people',
+    'people who than you for allowing them to change or merge into your lane',
+    'rose kombucha',
+    'peach kombucha',
+    'ginger kombucha',
+    'la croix',
+    'pinot grigio',
+    'cabernet sauvignon',
+    'apple juice',
+    'shirley temples',
+    'coffee',
+    'sweet tea',
+    'peach ice tea',
+    'raspberry lemonade',
+    'strawberry lemonade',
+    'strawberry limade',
+    'gin',
+    'green tea',
+    'black tea',
+    'herbal tea',
+    'a fully charged laptop',
+    'singing along to music in the car',
+    'Bernard Williams',
+    'moral philosophy',
+    'friendship!',
+    'cake frosting',
+    'brie cheese',
+    'bleu cheese',
+    'manchego',
+    'pasta aglio e olio',
+    'getting paid',
+    
   ]
 
-function newLike() {
-var randomNumber = (Math.floor(Math.random()*(likes.length)));
-document.getElementById('LikeDisplay').innerHTML = likes[randomNumber];
-}
 
 var dislikes = [
   'cake that falls apart',
@@ -31,11 +114,23 @@ var dislikes = [
   'waking up early',
   'trouble kids',
   'sunburns',
-  'having debt'
+  'having debt',
+  'passive-aggression',
+  'aggressive people',
+    'confrontation',
+    'beer',
+    'being lied to',
+    'learned helplessness',
+    'giving up',
+    'rejection',
+    'people who do not use their signals when changing lanes or turning',
+    'missing a turn',
+    'traffic in hot weather',
+    'winter mornings without a blanket',
+    'having nightmares',
+    'disappointing people',
+    'salad',
+    'red meat and poultry',
+    'loud neighbors',
+    'wasting food',
 ]
-
-function newDislike() {
-var randomNumber = Math.floor(Math.random()*(dislikes.length));
-document.getElementById('DislikeDisplay').innerHTML = dislikes[randomNumber];
-
-}
