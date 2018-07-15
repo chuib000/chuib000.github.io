@@ -73,7 +73,7 @@ button {
 #LikeDisplay {
   font-family: 'Muli', sans-serif;
   min-height: 65px;
-  vertical-align: top;
+  vertical-align: text-top;
   font-size: 20px;
   padding: 10px;
   margin: 0px 10px 10px 10px;
@@ -85,7 +85,7 @@ button {
 
 #DislikeDisplay {
   min-height: 65px;
-  vertical-align: top;
+  vertical-align: text-top;
   font-family: 'Muli', sans-serif;
   font-size: 20px;
   padding: 10px;
