@@ -36,8 +36,6 @@ button {
   grid-template-rows: auto auto;
   text-align: center;
   justify-items: center;
-  justify-content: center;
-  align-content: center;
   align-items: center;
 }
 
