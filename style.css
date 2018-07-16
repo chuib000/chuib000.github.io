@@ -34,6 +34,7 @@ button {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto auto;
+  text-align: center;
   justify-items: center;
   justify-content: center;
   align-content: center;
