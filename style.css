@@ -30,16 +30,18 @@ button {
 }
 
 .buttons {
-  margin: auto;
+  min-width: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto auto;
   text-align: center;
   justify-items: center;
+  justify-content: center;
   align-items: center;
 }
 
 #like {
+  min-width: 50%;
   background-color: darkgray;
   border: 10px solid lightgray;
   border-radius: 7px;
