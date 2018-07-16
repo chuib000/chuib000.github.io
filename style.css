@@ -21,6 +21,10 @@ h1 {
   margin: 50px;
 }
 
+h2 {
+  font-size: 35px;
+}
+
 button {
   font-family: 'Muli', sans-serif;
   font-weight: 400;
@@ -37,7 +41,6 @@ button {
 }
 
 #like {
-  font-size: 35px;
   background-color: darkgray;
   border: 10px solid lightgray;
   border-radius: 7px;
@@ -53,7 +56,6 @@ button {
 }
 
 #dislike {
-  font-size: 35px;
   background-color: darkgray;
   border: 10px solid lightgray;
   border-radius: 7px;
