@@ -31,6 +31,8 @@ button {
 
 .buttons {
   display: grid;
+  margin-left: 5px;
+  margin-right: 5px;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto auto;
   justify-items: center;
