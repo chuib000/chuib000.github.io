@@ -42,7 +42,6 @@ button {
 }
 
 #like {
-  min-width: 50%;
   background-color: darkgray;
   border: 10px solid lightgray;
   border-radius: 7px;
