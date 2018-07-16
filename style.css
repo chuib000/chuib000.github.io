@@ -31,15 +31,15 @@ button {
 
 .buttons {
   display: grid;
-  margin: auto;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto auto;
   justify-items: center;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
 }
 
 #like {
+  margin: 0px 5px 0px 10px;
   background-color: darkgray;
   border: 10px solid lightgray;
   border-radius: 7px;
@@ -55,6 +55,7 @@ button {
 }
 
 #dislike {
+  margin: 0px 10px 0px 5px;
   background-color: darkgray;
   border: 10px solid lightgray;
   border-radius: 7px;
