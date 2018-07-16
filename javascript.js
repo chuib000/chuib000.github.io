@@ -25,6 +25,7 @@ var likes = [
     'blueberries',
     'watermelon',
     'canteloupe',
+    'nachos',
     'tangerines',
     'clementines',
     'mandarin oranges',
@@ -153,4 +154,10 @@ var dislikes = [
     'getting stuck in small spaces',
     'brussel sprouts',
     'peas',
+    'accidentally finding meat in her food',
+    'standing for very long',
+    'spending a weekend alone',
+    'grape juice',
+    'grape soda',
+    'banana Laffy Taffy'
 ]
