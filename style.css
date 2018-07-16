@@ -21,11 +21,8 @@ h1 {
   margin: 50px;
 }
 
-h2 {
-  font-size: 35px;
-}
-
 button {
+  font-size: 35px;
   font-family: 'Muli', sans-serif;
   font-weight: 400;
   text-align: center;
