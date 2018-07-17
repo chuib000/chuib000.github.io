@@ -35,6 +35,8 @@ button {
   justify-items: center;
   justify-content: center;
   align-items: center;
+  width: 75%;
+  margin-left; 25%;
 }
 
 #like {
