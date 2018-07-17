@@ -4,7 +4,7 @@
 
 @viewport {
   width: device-width ;
-  zoom: 1.0 ;
+  zoom: 1.0;
 }
 
 body {
@@ -34,8 +34,7 @@ button {
   grid-template-rows: auto auto;
   justify-items: center;
   align-items: center;
-  justify-content: center;
-  align-content: center;
+  width: 75%;
 }
 
 #like {
