@@ -4,7 +4,7 @@
 
 @viewport {
   width: device-width ;
-  zoom: 1.0;
+  zoom: 1.0 ;
 }
 
 body {
@@ -32,13 +32,13 @@ button {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto auto;
-  align-items: center;
   justify-items: center;
-  justify-content: center;
+  align-items: center;
 }
 
 #like {
   font-size: 35px;
+  margin: 10px 5px 0px 10px;
   background-color: darkgray;
   border: 10px solid lightgray;
   border-radius: 7px;
@@ -55,6 +55,7 @@ button {
 
 #dislike {
   font-size: 35px;
+  margin: 10px 10px 0px 5px;
   background-color: darkgray;
   border: 10px solid lightgray;
   border-radius: 7px;
@@ -73,6 +74,7 @@ button {
   font-family: 'Muli', sans-serif;
   font-size: 20px;
   padding: 10px;
+  margin: 0px 10px 10px 10px;
   border: 10px solid lightseagreen;
   background-color: lightseagreen;
   color: seashell;
@@ -83,6 +85,7 @@ button {
   font-family: 'Muli', sans-serif;
   font-size: 20px;
   padding: 10px;
+  margin: 0px 0px 0px 10px;
   border: 10px solid lightseagreen;
   background-color: lightseagreen;
   color: seashell;
