@@ -33,7 +33,6 @@ button {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto auto;
   justify-items: center;
-  justify-content: center;
   align-items: center;
   width: 75%;
   margin-left: 12.5%;
