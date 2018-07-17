@@ -32,11 +32,9 @@ button {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto auto;
-  grid-gap: 5px;
   align-items: center;
-  width: 50%;
-  margin-left: 25%;
-  margin-right: 25%;
+  justify-items: center;
+  justify-content: center;
 }
 
 #like {
