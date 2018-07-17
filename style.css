@@ -34,9 +34,9 @@ button {
   grid-template-rows: auto auto;
   grid-gap: 5px;
   align-items: center;
-  width: 75%;
-  margin-left: 12.5%;
-  margin-right: 12.5%;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 #like {
