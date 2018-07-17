@@ -120,6 +120,7 @@ var likes = [
     'Two Door Cinema Club',
     'Kina Grannis',
     'Odd Future',
+    'cheese and crackers',
   ]
 
 
@@ -207,5 +208,5 @@ var dislikes = [
     'when she rambles because she feels awkward and does not know when to stop',
     'kids screaming',
     'not being able to climb because she injured herself',
-    
+    'sweating',
 ]
