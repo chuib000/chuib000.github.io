@@ -121,6 +121,8 @@ var likes = [
     'Kina Grannis',
     'Odd Future',
     'cheese and crackers',
+    'Bob Ross',
+    'Ruby the roadmaster (her bike)',
   ]
 
 
@@ -209,4 +211,5 @@ var dislikes = [
     'kids screaming',
     'not being able to climb because she injured herself',
     'sweating',
+    'butt stuff',
 ]
