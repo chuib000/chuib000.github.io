@@ -11,7 +11,7 @@ document.getElementById('DislikeDisplay').innerHTML = dislikes[randomNumber];
 function userLike() {
     var yourLike = prompt('Type your like!');
     console.log(yourLike);
-    document.getElementbyId('TheirLikeDisplay').innerHTML = '<p>You like ' + yourLike + '. Good for you!</p>';
+    alert('You like ' + yourLike + '. Good for you!');
 }
 
 var likes = [
