@@ -8,6 +8,12 @@ var randomNumber = Math.floor(Math.random()*(dislikes.length));
 document.getElementById('DislikeDisplay').innerHTML = dislikes[randomNumber];
 }
 
+function userLike() {
+    var yourLike = prompt('Type your like!');
+    console.log(yourLike);
+    document.getElementbyId('theirLike').innerHTML = ('<p>You like ' + yourLike + '. Good for you!</p>');
+}
+
 var likes = [
     'dark chocolate',
     'milk chocolate',
