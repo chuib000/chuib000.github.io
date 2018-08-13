@@ -17,7 +17,7 @@ function userLike() {
 function userDislike() {
     var yourDislike = prompt('Type your dislike!');
     console.log(yourDislike);
-    alert('You dislike ' + yourDislike + '. Well,' + yourDislike + ' dislikes you too!);
+    alert('You dislike ' + yourDislike + '. Well,' + yourDislike + ' dislikes you too!');
 }
 
 var likes = [
