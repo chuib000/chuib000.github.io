@@ -8,14 +8,12 @@ var randomNumber = Math.floor(Math.random()*(dislikes.length));
 document.getElementById('DislikeDisplay').innerHTML = dislikes[randomNumber];
 }
 
-function userLike() {
+   function userLike() {
     var yourLike = prompt('Type your like!');
     console.log(yourLike);
-    if (yourLike.indexOf(likes)) {
-    alert('I like that too!');
-    } else {
-        alert('That is not in my likes.');
+    alert('You like ' + yourLike + '. Good for you!');
 }
+
 
 function userDislike() {
     var yourDislike = prompt('Type your dislike!');
