@@ -92,8 +92,7 @@ button {
   grid-area: 2 / 2 / 3 / 3;
 }
 
-#theirLike {
-  text-align: center;
-  font-family: 'Muli', sans-serif;
-  font-size: 16px;
+.userInput {
+ display: grid;
+  grid-template-rows: 1fr 1fr;
 }
